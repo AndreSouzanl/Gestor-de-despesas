@@ -45,7 +45,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/gestor-despesas.git
+git clone https://github.com/AndreSouzanl/Gestor-de-despesas.git
 Instale as dependências:
 
 bash
@@ -63,7 +63,5 @@ Acesse em: http://localhost:3000
 💡 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
-📝 Licença
-Este projeto está sob a licença MIT.
 
-Desenvolvido com ❤️ por [Seu Nome ou GitHub].
+Desenvolvido com ❤️ por https://github.com/AndreSouzanl
